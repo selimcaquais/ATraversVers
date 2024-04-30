@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.07bf788a.css",
-    "main.js": "/static/js/main.cdcbaffb.js",
-    "static/js/453.1efbe8ac.chunk.js": "/static/js/453.1efbe8ac.chunk.js",
-    "static/media/Prociono.otf": "/static/media/Prociono.a6d3b5db9e3040c7835c.otf",
-    "index.html": "/index.html",
-    "main.07bf788a.css.map": "/static/css/main.07bf788a.css.map",
-    "main.cdcbaffb.js.map": "/static/js/main.cdcbaffb.js.map",
-    "453.1efbe8ac.chunk.js.map": "/static/js/453.1efbe8ac.chunk.js.map"
+    "main.css": "/ATraversVers/static/css/main.17e45ed9.css",
+    "main.js": "/ATraversVers/static/js/main.cd4faf80.js",
+    "static/js/453.1efbe8ac.chunk.js": "/ATraversVers/static/js/453.1efbe8ac.chunk.js",
+    "static/media/Prociono.otf": "/ATraversVers/static/media/Prociono.a6d3b5db9e3040c7835c.otf",
+    "index.html": "/ATraversVers/index.html",
+    "main.17e45ed9.css.map": "/ATraversVers/static/css/main.17e45ed9.css.map",
+    "main.cd4faf80.js.map": "/ATraversVers/static/js/main.cd4faf80.js.map",
+    "453.1efbe8ac.chunk.js.map": "/ATraversVers/static/js/453.1efbe8ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07bf788a.css",
-    "static/js/main.cdcbaffb.js"
+    "static/css/main.17e45ed9.css",
+    "static/js/main.cd4faf80.js"
   ]
 }

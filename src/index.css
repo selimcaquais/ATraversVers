@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: Prociono;
-  src: url('../fonts/Prociono.otf') format('OpenType');
+  src: url('assets/fonts/Prociono.otf') format('OpenType');
 }
 
 body {
