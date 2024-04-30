@@ -14,19 +14,20 @@ function App() {
     const poemWrapper = document.getElementById('poemWrapper');
     if (poemWrapper) {
 
-      // currentSentence become the choosen verse
-      setCurrentSentence(choosenVerse);
       // add the choosen verse to the poem
       const newVerse = document.createElement('p');
       newVerse.textContent = choosenVerse.label;
       poemWrapper.appendChild(newVerse);
     }
     if (choosenVerse.choices) {
+      // currentSentence become the choosen verse
+      setCurrentSentence(choosenVerse);
       /* if there are still possible choices in the new verse, 
       then we change the choices with those of the new currentSentence */
       setFirstChoice(choosenVerse.choices[0]);
       setSecondChoice(choosenVerse.choices[1]);
     } else {
+      setCurrentSentence(null);
       setFirstChoice(null)
       setSecondChoice(null)
     }
@@ -89,11 +90,10 @@ function App() {
       </div>
       <div id="gameContent">
         <div id="poemWrapper" className="text-center text-2xl h-[30vh]">
-          <p>{currentSentence.label}</p>
         </div>
 
         <div className="w-full flex justify-around text-2xl font-bold py-16">
-          {firstChoice.choices &&
+          {currentSentence &&
             <>
               <p id="firstChoice" className="cursor-pointer" onClick={() => newVerse(firstChoice)}>"{firstChoice.label}"</p>
               <p id="secondChoice" className="cursor-pointer" onClick={() => newVerse(secondChoice)}>"{secondChoice.label}"</p>
