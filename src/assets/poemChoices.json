@@ -1,0 +1,314 @@
+{
+    "id": 1,
+    "label": "C'est le point le plus haut des sommets alentours",
+    "choices": [
+        {
+            "id": 2,
+            "label": "Où l'aurore indiscrète montre une silhouette",
+            "choices": [
+                {
+                    "id": 3,
+                    "label": "Cette ombre c'est un homme éconduit par l'Amour",
+                    "choices": [
+                        {
+                            "id": 5,
+                            "label": "Et qui, se lamentant,s’improvise poète,",
+                            "choices": [
+                                {
+                                    "id": 9,
+                                    "label": "Et d’un élan pathétique il fait de l’écho",
+                                    "choices": [
+                                        {
+                                            "id": 17,
+                                            "label": "Un ami qui, lui seul, peut comprendre ses mots."
+                                        },
+                                        {
+                                            "id": 18,
+                                            "label": "Le confident forcé de son coeur en lambeaux."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 10,
+                                    "label": "Chargeant d’un sens profond les arbres et les rocs",
+                                    "choices": [
+                                        {
+                                            "id": 19,
+                                            "label": "Les noyant sous sa peine en un cri univoque."
+                                        },
+                                        {
+                                            "id": 20,
+                                            "label": "Puis s’effondrant face aux souvenirs qu’ils évoquent"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "label": "S'approchant de la crête,un regard, et s'en jette.",
+                            "choices": [
+                                {
+                                    "id": 11,
+                                    "label": "Une ultime pensée lui traverse l'esprit :",
+                                    "choices": [
+                                        {
+                                            "id": 21,
+                                            "label": "Le regard de celui dont son coeur fut épris."
+                                        },
+                                        {
+                                            "id": 22,
+                                            "label": "\"Que la mort est facile !\" se dit-il, surpris."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 12,
+                                    "label": "Un doute le percute avant même le sol",
+                                    "choices": [
+                                        {
+                                            "id": 23,
+                                            "label": "Comme une main aimée l’attrapant par le col."
+                                        },
+                                        {
+                                            "id": 24,
+                                            "label": "Qui reste suspendu : déjà l’âme s’envole."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "label": "Il s’en révèle d’autres, une à une, à leur tour,",
+                    "choices": [
+                        {
+                            "id": 7,
+                            "label": "S’ajoutant au cercle qui s’installe, s’apprête.",
+                            "choices": [
+                                {
+                                    "id": 13,
+                                    "label": "Puis un brasier naissant s’élève lentement",
+                                    "choices": [
+                                        {
+                                            "id": 25,
+                                            "label": "Brûlant devant leurs yeux le corps de leur parent."
+                                        },
+                                        {
+                                            "id": 26,
+                                            "label": "Protégeant les campeurs des spectres revenant"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 14,
+                                    "label": "Soudainement le choeur, entonne un chant si beau",
+                                    "choices": [
+                                        {
+                                            "id": 27,
+                                            "label": "Que des des âmes qu’il touche il en fait des lambeaux."
+                                        },
+                                        {
+                                            "id": 28,
+                                            "label": "Que c’est en sanglotant que lui répond l’écho."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "label": "Suivant la précédente, espérant qu’on s’arrête;",
+                            "choices": [
+                                {
+                                    "id": 15,
+                                    "label": "Car chaque pas de plus rapproche ces soldats",
+                                    "choices": [
+                                        {
+                                            "id": 29,
+                                            "label": "D’une lutte sans but qu’ils ne gagneront pas."
+                                        },
+                                        {
+                                            "id": 30,
+                                            "label": "De devenir un souvenir qu’on oubliera."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 16,
+                                    "label": "Car il est douloureux de quitter sa maison",
+                                    "choices": [
+                                        {
+                                            "id": 31,
+                                            "label": "Même si un Dieu en donne la raison."
+                                        },
+                                        {
+                                            "id": 32,
+                                            "label": "Quand le chemin s’étend par delà l’horizon."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "label": "Qu'orne une croix en bois surplombant la vallée.",
+            "choices": [
+                {
+                    "id": 34,
+                    "label": "C'est aussi le perchoir de sordides vautours.",
+                    "choices": [
+                        {
+                            "id": 36,
+                            "label": "Qui entendent le cri d'un mourant esseulé,",
+                            "choices": [
+                                {
+                                    "id": 40,
+                                    "label": "Un pauvre promeneur au fond d'une crevasse",
+                                    "choices": [
+                                        {
+                                            "id": 48,
+                                            "label": "Ce promeneur, bientôt, ne sera qu'une carcasse."
+                                        },
+                                        {
+                                            "id": 49,
+                                            "label": "Qui mit fin à ses jours à la vue des rapaces."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 41,
+                                    "label": "Dont l'écho se propage sur la plaine rase",
+                                    "choices": [
+                                        {
+                                            "id": 50,
+                                            "label": "Ce cri c'est Prométhée, enchaîné au Caucase."
+                                        },
+                                        {
+                                            "id": 51,
+                                            "label": "Car sous ses pieds voilà que le bûcher s’embrase."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 37,
+                            "label": "Leurs yeux inquisiteurs cherchent des macchabées,",
+                            "choices": [
+                                {
+                                    "id": 42,
+                                    "label": "Ou une proie facile qu'un coup de bec achève :",
+                                    "choices": [
+                                        {
+                                            "id": 52,
+                                            "label": "Jamais ces charognards ne vous offrent de trêve."
+                                        },
+                                        {
+                                            "id": 53,
+                                            "label": "La vue de ces augures annonce une vie brève.."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 43,
+                                    "label": "Mais ne rencontrent qu’un paysage désert,",
+                                    "choices": [
+                                        {
+                                            "id": 54,
+                                            "label": "Délaissé par la vie par crainte de l’hiver."
+                                        },
+                                        {
+                                            "id": 55,
+                                            "label": "Par des dunes animé, lents amas de poussière."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "label": "D'épais nuages blancs étouffent les atours",
+                    "choices": [
+                        {
+                            "id": 38,
+                            "label": "D'une nature calme sous la canopée.",
+                            "choices": [
+                                {
+                                    "id": 44,
+                                    "label": "Epinglé sur ce mont depuis cent ans déjà",
+                                    "choices": [
+                                        {
+                                            "id": 56,
+                                            "label": "Jésus se lasse un brin de ce panorama."
+                                        },
+                                        {
+                                            "id": 57,
+                                            "label": "Le Christ, mille ans de plus, sans doute y restera."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 45,
+                                    "label": "Un brame s'élevant révèle un cerf en rut",
+                                    "choices": [
+                                        {
+                                            "id": 58,
+                                            "label": "Un cri de ralliement pour une faune en lutte."
+                                        },
+                                        {
+                                            "id": 59,
+                                            "label": "Couvert par les fusils puis le bruit de sa chute."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 39,
+                            "label": "De la forêt vierge jusqu'à les avaler.",
+                            "choices": [
+                                {
+                                    "id": 46,
+                                    "label": "Un coup de vent soudain déchire en son milieu",
+                                    "choices": [
+                                        {
+                                            "id": 60,
+                                            "label": "Le bouclier brumeux pour révéler les lieux."
+                                        },
+                                        {
+                                            "id": 61,
+                                            "label": "La nappe de fumée : la forêt est en feu."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 47,
+                                    "label": "Mais parvient à l'oreille de ceux qui la tendent",
+                                    "choices": [
+                                        {
+                                            "id": 62,
+                                            "label": "Le long gémissement des troncs que les scies fendent."
+                                        },
+                                        {
+                                            "id": 63,
+                                            "label": "Le murmure des fées qui peuplent les légendes."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
