@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07bf788a.css",
+    "main.js": "/static/js/main.cdcbaffb.js",
+    "static/js/453.1efbe8ac.chunk.js": "/static/js/453.1efbe8ac.chunk.js",
+    "static/media/Prociono.otf": "/static/media/Prociono.a6d3b5db9e3040c7835c.otf",
+    "index.html": "/index.html",
+    "main.07bf788a.css.map": "/static/css/main.07bf788a.css.map",
+    "main.cdcbaffb.js.map": "/static/js/main.cdcbaffb.js.map",
+    "453.1efbe8ac.chunk.js.map": "/static/js/453.1efbe8ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07bf788a.css",
+    "static/js/main.cdcbaffb.js"
+  ]
+}
