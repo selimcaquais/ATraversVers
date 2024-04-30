@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # ATraversVers
 "Through Verse" responds to the challenge of interactivity in literature. Acknowledging that traditional books limit reader interaction to linear reading, it offers a unique experience. Starting with a single verse, readers choose between two, creating their own path and crafting a personalized poem. French website
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
