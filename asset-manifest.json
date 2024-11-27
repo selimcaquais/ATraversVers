@@ -7,7 +7,8 @@
     "index.html": "/ATraversVers/index.html",
     "main.17e45ed9.css.map": "/ATraversVers/static/css/main.17e45ed9.css.map",
     "main.bfda51b5.js.map": "/ATraversVers/static/js/main.bfda51b5.js.map",
-    "453.1efbe8ac.chunk.js.map": "/ATraversVers/static/js/453.1efbe8ac.chunk.js.map"
+    "453.1efbe8ac.chunk.js.map": "/ATraversVers/static/js/453.1efbe8ac.chunk.js.map",
+    "static/media/favicon-96x96.png":"/ATraversVers/static/media/favicon-96x96.png"
   },
   "entrypoints": [
     "static/css/main.17e45ed9.css",
