@@ -3,7 +3,7 @@
   "name": "A travers Vers",
   "icons": [
     {
-      "src": "../src/assets/favicon/favicon-96x96.png",
+      "src": "../src/assets/favicon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     }
